@@ -9,4 +9,7 @@ Code explanation
 * 003.js    Exercise to the 002.js, only that pipes an WriteStream.
 * 004.js    Sending data between two UDP servers.
 * 005.js    Script for counting the max stack size.
-
+* 006.js    Using process object to visit arguments and writes to stdout
+* 007.js    Adding a custom sayHello function to the context of a REPL instance
+* 008.js    Implementing a C/S REPL terminal
+* 009.js    
